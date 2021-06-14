@@ -5,4 +5,3 @@ does not distract from the overall layout and visual hierarch
 Installation on IIS 
 
 _ _ _ _ _ _ _ _ 
-Content goes here
